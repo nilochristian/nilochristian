@@ -9,7 +9,7 @@
   <a href="https://github.com/nilochristian">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nilochristian&layout=compact&theme=dark&count_private=true&show_icons=true" />
   <br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilochristian&layout=compact&theme=dark&hide=hlsl,shaderlab" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilochristian&layout=compact&theme=dark&hide=hlsl,shaderlab,jupyter%20notebook" />
   </a>
 </div>
 
